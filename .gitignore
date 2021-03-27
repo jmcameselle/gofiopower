@@ -1,0 +1,6 @@
+!*.dll
+!*.exe
+thumbs.db
+desktop.ini
+.vscode
+
